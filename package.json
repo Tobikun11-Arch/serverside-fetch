@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "name": "fetch&cache",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
